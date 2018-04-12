@@ -1,4 +1,4 @@
-FROM docker
+FROM docker:stable
 
 ENV CLI_VERSION=1.15.4
 
