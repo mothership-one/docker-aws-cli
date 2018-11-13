@@ -1,6 +1,6 @@
 FROM docker:stable
 
-ENV CLI_VERSION=1.15.85
+ENV CLI_VERSION=1.16.53
 
 RUN apk -v --update add \
         python \
